@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaesoly
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning CEH
+- 🌱 I’m CEH
 - 💞️ I’m looking to collaborate on Hack
 - 📫 How to reach me vae_soly@hotmail.com
 
